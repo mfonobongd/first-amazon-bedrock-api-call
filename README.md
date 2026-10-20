@@ -2,6 +2,10 @@
 
 A beginner-friendly Python project demonstrating how to invoke Amazon Nova Micro through Amazon Bedrock using Boto3 and the Converse API.
 
+# Read the full Article here
+
+- [How to Make Your First Amazon Bedrock API Call with Python](https://docs.aws.amazon.com)
+
 ## What This Project Does
 
 - Sends prompts to Amazon Bedrock

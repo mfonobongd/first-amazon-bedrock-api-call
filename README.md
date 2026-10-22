@@ -66,7 +66,7 @@ python3 first_bedrock_call.py
 
 ## Security
 
-Never commit AWS API keys or other credentials to this repository. For production applications, use appropriate IAM roles or temporary credentials.
+Keep your key private. Anyone who has it could use the permissions attached to it to make requests through your AWS account and incur charges. Never include it in code, screenshots, or a GitHub repository. Delete it when you finish experimenting.
 
 ## Documentation
 

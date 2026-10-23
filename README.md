@@ -4,7 +4,7 @@ A beginner-friendly Python project demonstrating how to invoke Amazon Nova Micro
 
 # Read the full Article here
 
-- [How to Make Your First Amazon Bedrock API Call with Python](https://docs.aws.amazon.com)
+- [How to Make Your First Amazon Bedrock API Call with Python]([https://docs.aws.amazon.com](https://builder.aws.com/content/3KvWnc5Lpxmz9p7CiUaNsW6KDM5/how-to-make-your-first-amazon-bedrock-api-call-with-python))
 
 ## What This Project Does
 
